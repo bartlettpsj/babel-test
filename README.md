@@ -10,15 +10,11 @@ To build and run simply enter.
 npm start 
 ```
 
-
-
 To build app.js as out.js run
 
 ```javascrip
 npm run build
 ```
-
-
 
 To test enter
 
